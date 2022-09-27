@@ -1,0 +1,7 @@
+niebieski
+czerwony
+rorzowy
+zielony
+
+~~~~~~~~
+komendy na zmiane kolorów
