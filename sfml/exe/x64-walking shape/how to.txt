@@ -1,0 +1,7 @@
+you can edit prog.cfg with note pad
+w-up
+s-down
+a-left
+d-right
+left arow-rotating left
+right arow-rotating right
